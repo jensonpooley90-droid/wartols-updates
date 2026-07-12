@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.4",
-    "download_url":  "https://github.com/jensonpooley90-droid/wartols-updates/releases/download/v1.0.4/wartols-1.0.4.zip",
-    "sha256":  "6a67261bad0249060c9ac60a0863244a4de26c9e1e437b9c1daf10eeec2a8f10",
-    "notes":  "Added referral tab, referral rewards, Referral Glow theme, Referral Elite badge, and owner referral tracking."
+    "version":  "1.0.5",
+    "download_url":  "https://github.com/jensonpooley90-droid/wartols-updates/releases/download/v1.0.5/wartols-1.0.5.zip",
+    "sha256":  "079cc6e09d11a06114d88c8249d6fd7986098dac7d2d0c3dc3f31969b4f1dcaa",
+    "notes":  "Added Share tab with a ready-to-send message, download link copy button, and referral code included."
 }
