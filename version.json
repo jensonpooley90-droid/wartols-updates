@@ -1,0 +1,6 @@
+{
+    "version":  "1.0.0",
+    "download_url":  "https://github.com/jensonpooley90-droid/wartols-updates/releases/download/v1.0.0/wartols-1.0.0.zip",
+    "sha256":  "57463d126e16d4bab146a927c08d3e425e689da8927b3793f0f81f3142b26035",
+    "notes":  "GitHub updater added. wartols can now check this manifest and install release zips."
+}
