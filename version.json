@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.2",
-    "download_url":  "https://github.com/jensonpooley90-droid/wartols-updates/releases/download/v1.0.2/wartols-1.0.2.zip",
-    "sha256":  "5166d95c8a4cea5912882a33988bee0b66d4a5283ed4cefcbc5286e086cc8896",
-    "notes":  "Added theme selector, changelog, clean notifications, sound effects, scan queue, and scan history."
+    "version":  "1.0.3",
+    "download_url":  "https://github.com/jensonpooley90-droid/wartols-updates/releases/download/v1.0.3/wartols-1.0.3.zip",
+    "sha256":  "e4b72306e42aaf4c90f7ee9fa5b80b6b967502cb68b644c4d979d9ae978d6106",
+    "notes":  "Fixed theme selector so saved themes apply immediately inside wartols."
 }
