@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.6",
-    "download_url":  "https://github.com/jensonpooley90-droid/wartols-updates/releases/download/v1.0.6/wartols-1.0.6.zip",
-    "sha256":  "f3e0f0ed3778bed5413979e10b90a1c41e49f710bffa741d2d33311a30c7be89",
-    "notes":  "Added Hyper speed, unlocked after 5 referrals."
+    "version":  "1.0.7",
+    "download_url":  "https://github.com/jensonpooley90-droid/wartols-updates/releases/download/v1.0.7/wartols-1.0.7.zip",
+    "sha256":  "53489f18220516a4c6b2287079c7019ede497a9776e0e7134415148fe5307e5c",
+    "notes":  "Fixed referral codes on other PCs and clarified where referral codes go during login."
 }
